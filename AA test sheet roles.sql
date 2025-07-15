@@ -1,7 +1,0 @@
-select 7;
-select 22;
-
-SELECT * 
-FROM SNOWSCIENCE.UI.NOTEBOOK_EXECUTIONS 
-limit 10000;
-
