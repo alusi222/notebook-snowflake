@@ -1,0 +1,8 @@
+{
+  "notebookSettings": {
+    "idleAutoShutdownTimeSeconds": 900,
+    "externalAccessIntegrations": [
+      "PYPI_ACCESS_INTEGRATION"
+    ]
+  }
+}
